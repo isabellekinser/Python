@@ -3,23 +3,26 @@
 C:\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\input\com.python.pydev.analysis\v2_indexcache
 inputOutline|1639541878222237800|C:\Python\input\inputOutline.py
 inputDrills|1639542430668635800|C:\Python\input\inputDrills.py
+debugInputDrillsV1|1639544642320831400|C:\Python\input\debugInputDrillsV1.py
 -- END DISKCACHE
 -- START DICTIONARY
-4
+6
+5=C:\Python\input\debugInputDrillsV1.py
 2=inputOutline
 4=inputDrills
 3=C:\Python\input\inputDrills.py
 1=C:\Python\input\inputOutline.py
+6=debugInputDrillsV1
 -- END DICTIONARY
 -- START TREE 1
 8
 age|1|age!1^20#1*19@
 ans|1|ans!3^47#1*35@
-cir|0|
+cir|1|circleArea!5^23#5*50@
 fav|4|favNum!3^28#1*35@favColor!3^9#1*35@favAnimal!3^21#1*35@favColor!1^8#1*19@
 ins|1|instructor!3^40#1*35@
 nam|1|name!1^14#1*19@
-rec|0|
+rec|1|rectangleArea!5^45#5*50@
 sch|1|school!3^35#1*35@
 -- END TREE
 -- START TREE 2

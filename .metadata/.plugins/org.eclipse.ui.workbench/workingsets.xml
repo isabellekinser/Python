@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1639714405304_1" label="survey" name="survey"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1639960743462_2" label="surveyIzzy" name="surveyIzzy">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/survey" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1639096668122_0" label="Window Working Set" name="Aggregate for window 1639096668122"/>
+<mruList name="surveyIzzy"/>
+<mruList name="survey"/>
 </workingSetManager>
