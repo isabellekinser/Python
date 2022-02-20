@@ -906,3 +906,6 @@ java.io.FileNotFoundException: C:\Program Files\LiClipse 8.1.0\plugins\com.brain
 
 !ENTRY org.python.pydev.shared_core 4 4 2022-01-30 19:55:02.363
 !MESSAGE Info: Rebuilding internal caches: C:\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\comparisonOperators\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2022-02-20 15:14:23.172
+!MESSAGE Info: Rebuilding internal caches: C:\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\conversion\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
